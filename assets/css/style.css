@@ -2,3 +2,55 @@
     box-sizing: border-box;
 }
 
+body {
+    background-image: url("../images/houndstooth-pattern.png");
+    background-repeat: repeat;
+    color: #777777;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 28px;
+    line-height:28px;
+}
+
+h1, h2, h3 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#masthead {
+    height: 100px;
+    background-color: #ffffff;
+    border-bottom: solid 1px #cccccc
+
+}
+.headercontainer {
+    width: 100%;
+    max-width: 960px;
+    margin: 0 auto;
+}
+.myname {
+    color: #ffffff;
+    background-color: #4aaaa5;
+    float: left;
+}
+
+nav {
+    float:right;
+}
+
+.navbar {
+    border-left: solid 1px #cccccc;
+    color: #777777;
+}
+
+.content-area {
+    width: 100%;
+    max-width: 960px;
+    margin: 0 auto;
+    clear: both;
+    border: solid 1px #cccccc;
+    background-color: #ffffff;
+}
+
+.profpic {
+    float:left;
+    margin-right: 5px;
+}
