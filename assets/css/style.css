@@ -82,6 +82,7 @@ nav {
     background-color: #ffffff;
     padding: 10px;
     margin-bottom: 100px;
+    height: 800px;
 }
 
 .profpic {
@@ -89,6 +90,21 @@ nav {
     margin-right: 5px;
 }
 
+.work {
+    height:200px;
+    width: 300px;
+    float: left;
+    margin:10px;
+    position: relative;
+}
+
+.work h3 {
+    border-bottom: 0;
+    background: #4aaaa5;
+    color: #ffffff;
+    text-align: center;
+    position: absolute;
+}
 
 footer {
     padding: 20px;
