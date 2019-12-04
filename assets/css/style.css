@@ -165,6 +165,11 @@ footer {
     border-top: solid 5px #4aaaa5;
 }
 
+p {
+    text-indent:40px;
+}
+
+/* Bonus Stuff */
 .wrapper {
     min-height: 100%;
     margin-bottom: -100px;
@@ -174,6 +179,9 @@ footer {
     height: 100px;
 }
 
-p {
-    text-indent:40px;
+a:hover {
+    color: #4aaaa5;
+    font-weight:800;
 }
+
+
