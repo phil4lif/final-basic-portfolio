@@ -23,7 +23,8 @@ h1, h2, h3 {
     margin: 0 0 40px;
     z-index: 99;
     overflow: auto;
-    /* position: fixed; */
+    position: fixed;
+    top: 0;
     width: 100%;
 }
 
@@ -77,13 +78,13 @@ nav {
 .content-area {
     width: 100%;
     max-width: 960px;
-    margin: 0 auto;
+    margin: 150px auto;
     clear: both;
     border: solid 1px #cccccc;
     background-color: #ffffff;
     padding: 10px;
     margin-bottom: 100px;
-    height: 100%;
+    min-height: 100%;
 }
 
 .profpic {
