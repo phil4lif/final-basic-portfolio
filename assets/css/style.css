@@ -140,8 +140,8 @@ input[type=email],
 textarea {
     height: 35px;
     border: 1px solid #ddd;
-    padding; 0 10px;
-    fond-size: 14px;
+    padding: 0 10px;
+    font-size: 14px;
 }
 
 textarea {
