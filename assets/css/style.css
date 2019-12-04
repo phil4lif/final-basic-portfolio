@@ -88,7 +88,7 @@ nav {
 
 .profpic {
     float:left;
-    margin-right: 5px;
+    margin-right: 10px;
 }
 
 .work {
@@ -172,4 +172,8 @@ footer {
 
 .footer, .push {
     height: 100px;
+}
+
+p {
+    text-indent:40px;
 }
