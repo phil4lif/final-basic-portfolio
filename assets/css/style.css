@@ -50,7 +50,7 @@ h1, h2, h3 {
     text-align: left;
     color: #4aaaa5;
     font-size: 30px;
-    border-bottom: 1px solid #777777;
+    border-bottom: 2px solid #cccccc;
     margin-bottom:6px;
 }
 
@@ -162,4 +162,13 @@ footer {
     color: #ffffff;
     background-color: #666666;
     border-top: solid 5px #4aaaa5;
+}
+
+.wrapper {
+    min-height: 100%;
+    margin-bottom: -100px;
+}
+
+.footer, .push {
+    height: 100px;
 }
