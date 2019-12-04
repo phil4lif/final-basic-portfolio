@@ -20,12 +20,13 @@ h1, h2, h3 {
     height: 100px;
     background-color: #ffffff;
     border-bottom: solid 2px #cccccc;
-    margin: 0 0 30px;
+    margin: 0 0 40px;
     z-index: 99;
     overflow: auto;
     /* position: fixed; */
     width: 100%;
 }
+
 .headercontainer {
     width: 100%;
     max-width: 960px;
@@ -82,7 +83,7 @@ nav {
     background-color: #ffffff;
     padding: 10px;
     margin-bottom: 100px;
-    height: 800px;
+    height: 100%;
 }
 
 .profpic {
